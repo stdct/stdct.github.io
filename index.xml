@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STDCT</title>
+    <link>http://examplesite.org/</link>
+    <description>Recent content on STDCT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright reserved.</copyright>
+    <lastBuildDate>Tue, 16 Jun 2020 10:00:00 +0800</lastBuildDate><atom:link href="http://examplesite.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NUS and NTU launch first-of-its-kind tropical data centre testbed</title>
+      <link>http://examplesite.org/blog/post-1/</link>
+      <pubDate>Tue, 16 Jun 2020 10:00:00 +0800</pubDate>
+      
+      <guid>http://examplesite.org/blog/post-1/</guid>
+      <description>New S$23 million programme to pioneer green and efficient cooling solutions for data centres located in the tropics to operate optimally.</description>
+    </item>
+    
+    <item>
+      <title>Comparative Study of Different DC Cooling Solutions</title>
+      <link>http://examplesite.org/blog/post-2/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>http://examplesite.org/blog/post-2/</guid>
+      <description>Air Cooled Servers Racks VS. Immersion Cooling Racks and Liquid Cooled Servers Racks.
+Source of the pictures.</description>
+    </item>
+    
+    <item>
+      <title>Cutting-edge infrastructure</title>
+      <link>http://examplesite.org/blog/post-5/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>http://examplesite.org/blog/post-5/</guid>
+      <description>The new STDCT will be housed on NUS Kent Ridge campus. The new facility will house stateof- the-art equipment such as a novel desiccant-coated heat exchanger design, and a StatePoint Liquid Cooling System (SPLC).</description>
+    </item>
+    
+    <item>
+      <title>Data Center Implementation in Tropical Climate</title>
+      <link>http://examplesite.org/blog/post-3/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>http://examplesite.org/blog/post-3/</guid>
+      <description>The rise of the digital economy has led to growing demand for data centres that house computing and data storage infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>Growing demand for efficient and sustainable data centres</title>
+      <link>http://examplesite.org/blog/post-4/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>http://examplesite.org/blog/post-4/</guid>
+      <description>The rise of the digital economy has led to growing demand for data centres that house computing and data storage infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>Synergistic research and collaboration</title>
+      <link>http://examplesite.org/blog/post-6/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>http://examplesite.org/blog/post-6/</guid>
+      <description>Research at the STDCT will be co-led by researchers from both NUS, NTU and data centre industry partners, with active inputs from relevant government agencies.</description>
+    </item>
+    
+    <item>
+      <title>Implementation</title>
+      <link>http://examplesite.org/terms-conditions/ob/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://examplesite.org/terms-conditions/ob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-Organic Frameworks</title>
+      <link>http://examplesite.org/terms-conditions/mof/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://examplesite.org/terms-conditions/mof/</guid>
+      <description>Metal-organic frameworks (MOFs) MOFs are renown for their high crystallinity, porosity and tunability. As hybrid porous materials, MOFs comprise of inorganic metal ions coordinated to organic ligands in a framework structure.</description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>http://examplesite.org/terms-conditions/ov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://examplesite.org/terms-conditions/ov/</guid>
+      <description>The Sustainable Tropical Data Centre Testbed (STDCT) is the first data centre testbed in the tropics, set up to enhance Singapore’s competitiveness in sustainable and efficient data centre solutions, for the region’s challenging high-temperature and humidity operations.</description>
+    </item>
+    
+    <item>
+      <title>Overview of TDC 2.0</title>
+      <link>http://examplesite.org/terms-conditions/tdc_ov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://examplesite.org/terms-conditions/tdc_ov/</guid>
+      <description>Abstract This TDC2 project plans to follow a translation model as illustrated in Figure 3. Specifically, the research team will work with one or more industry partners to set up the TDC2 in the actual data centres.</description>
+    </item>
+    
+    <item>
+      <title>System Overview</title>
+      <link>http://examplesite.org/terms-conditions/dt_ov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://examplesite.org/terms-conditions/dt_ov/</guid>
+      <description>The operation of our cooling technologies needs to be digitalized to enable real-time monitoring and optimization, a feature for the next-generation DCs.</description>
+    </item>
+    
+    <item>
+      <title>Testbed Design</title>
+      <link>http://examplesite.org/terms-conditions/design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://examplesite.org/terms-conditions/design/</guid>
+      <description>
+Layout Site Visit </description>
+    </item>
+    
+  </channel>
+</rss>
